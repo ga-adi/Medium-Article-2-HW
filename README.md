@@ -1,3 +1,5 @@
+https://medium.com/@shum.chris/material-design-6051f7f9d860#.4tj7yeg1n
+
 ---
 title: Medium Article Homework 2
 type: Homework
