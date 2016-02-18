@@ -52,3 +52,4 @@ Some of the topics we've covered so far:
 > Link to your article: [Title of Article](http://Link.To.Article)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
+ 
