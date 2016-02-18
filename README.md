@@ -49,6 +49,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Material Design aka Quantum Paper – Hype or Revolutionary?](https://medium.com/@adityo/material-design-aka-quantum-paper-hype-or-revolutionary-ef87ee7f3c8c#.2q3twpjow)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
