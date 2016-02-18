@@ -49,6 +49,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [I Like the Way You Move (Lollipop/Marshmallow)](https://medium.com/@QuothTheRavings/i-like-the-way-you-move-lollipop-marshmallow-cfa25ab608c2#.7bu8a439e)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
