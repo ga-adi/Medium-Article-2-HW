@@ -49,6 +49,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Why I love testing (and why you should, too)](https://medium.com/@farazfazli/why-i-love-testing-and-why-you-should-too-673038b874ee#.vqk4qnfwh)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
