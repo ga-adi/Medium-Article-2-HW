@@ -50,5 +50,6 @@ Some of the topics we've covered so far:
 #### Deliverable
 
 > Link to your article: [Title of Article](http://Link.To.Article)
+[Custom Adapters For a More Professional Looking UI](https://medium.com/@gregorykdaly/custom-adapters-for-a-more-professional-looking-ui-79075f5aa667#.i08gd1kbi)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
