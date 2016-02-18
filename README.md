@@ -49,6 +49,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Easy way to nest a ListView inside of a ScrollView](https://medium.com/@WasabiMayo/easy-way-to-nest-a-listview-inside-of-a-scrollview-3da005a57ee2#.pj8m1ptd8)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
