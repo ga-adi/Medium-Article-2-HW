@@ -49,6 +49,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> [Android Development Must Know](https://medium.com/@magnumkarter/android-development-must-know-e17a2baef5c2#.ld7lkah9j)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
