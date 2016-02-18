@@ -49,6 +49,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [legos-videogames-hamburgers-and-android-relativelayouts](https://medium.com/@pcooperman28/legos-videogames-hamburgers-and-android-relativelayouts-fc1535e5992e#.tpfkl4jj6)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
