@@ -49,6 +49,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Android - Space Views](https://medium.com/@charlesdrews/android-space-views-9052c9541bc9#.grp3yc1ao)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
