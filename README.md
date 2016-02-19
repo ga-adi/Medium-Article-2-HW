@@ -5,7 +5,7 @@ duration: "1:00"
 creator: James Davis (NYC)
 ---
 
-# ![Do What Thou Wilt Shall be the Whole of the Code](https://github.com/kylemcnee/Medium-Article-2-HW.git) Medium Article #2
+# ![Do What Thou Wilt Shall be the Whole of the Code](https://medium.com/@kylemcnee/do-what-thou-wilt-shall-be-the-whole-of-the-code-5450075f8abe#.lknac99hm) Medium Article #2
 
 ## Exercise
 
